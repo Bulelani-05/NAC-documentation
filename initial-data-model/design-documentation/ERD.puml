@@ -1,4 +1,4 @@
-@startuml NAC-ERD
+@startuml NAC-ERD-initial
 ' Entity Relationship Diagram generated from DBML
 
 ' Table: follows
